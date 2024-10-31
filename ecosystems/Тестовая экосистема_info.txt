@@ -1,0 +1,31 @@
+{
+  "name": "Тестовая экосистема",
+  "organisms": [
+    {
+      "foodConsumptionRate": 2.0,
+      "animalType": "HERBIVORE",
+      "name": "травоядное1",
+      "population": 47.782231249999995
+    },
+    {
+      "foodConsumptionRate": 1.0,
+      "animalType": "CARNIVORE",
+      "name": "плотоядное1",
+      "population": 38.38635624999999
+    },
+    {
+      "foodConsumptionRate": 3.0,
+      "animalType": "OMNIVORE",
+      "name": "всеядное1",
+      "population": 59.869153125
+    },
+    {
+      "growthRate": 1.0,
+      "name": "растение1",
+      "population": 43.083404375
+    }
+  ],
+  "temperature": 18.538012476651126,
+  "humidity": 52.438553822969894,
+  "waterAvailability": 95.08564518749999
+}
